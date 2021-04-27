@@ -1,0 +1,3 @@
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/tinyobjloader-subbuild/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/tinyobjloader-subbuild/CMakeFiles/edit_cache.dir
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/tinyobjloader-subbuild/CMakeFiles/tinyobjloader-populate.dir

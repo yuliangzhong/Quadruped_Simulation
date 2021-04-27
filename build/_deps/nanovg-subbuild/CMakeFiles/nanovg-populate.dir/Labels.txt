@@ -1,0 +1,14 @@
+# Target labels
+ nanovg-populate
+# Source files and their labels
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate-complete.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build.rule
+/home/ubuntu/CMM/a2-yuliangzhong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test.rule
