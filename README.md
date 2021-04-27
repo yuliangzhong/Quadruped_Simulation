@@ -22,7 +22,9 @@ Our ultimate goal is tracking all of the target trajectories at the same time. W
 ![demo1](https://user-images.githubusercontent.com/39910677/116314907-054dce80-a7b0-11eb-9780-f959173a1221.gif)
 
 #### walk on uneven terrain
-![demo2](https://user-images.githubusercontent.com/39910677/116314920-0979ec00-a7b0-11eb-9cf4-db018cd26deb.gif) ![demo3](https://user-images.githubusercontent.com/39910677/116314927-0bdc4600-a7b0-11eb-844b-b7441c8ea7af.gif)
+Random Walk (Mesh)         | Random Walk (Mesh & 2D ESDF Slice)
+:-------------------------:|:-------------------------:
+![demo2](https://user-images.githubusercontent.com/39910677/116314920-0979ec00-a7b0-11eb-9cf4-db018cd26deb.gif)|![demo3](https://user-images.githubusercontent.com/39910677/116314927-0bdc4600-a7b0-11eb-844b-b7441c8ea7af.gif)
 
 ## How to play it
 
