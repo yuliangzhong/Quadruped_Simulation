@@ -18,7 +18,14 @@ Our ultimate goal is tracking all of the target trajectories at the same time. W
 
 ## Demos
 
-## How to play
+## How to play it
+
+```git clone```
+
+```cd Quadruped_Simulation/build/src/app```
+
+```./locomotion```
+
 
 ## Exercises
 
