@@ -1,10 +1,8 @@
 # Assignment 2 - Kinematic walking controller
 
-**Hand-in:** Apr. 2, 2021, 18:00 CEST
+## Introduction
 
-In this assignment, we implement a kinematic walking controller for a legged robot! 
-
-Let's see the figure below. 
+In this assignment, we implement a kinematic walking controller for a legged robot, based on code template provided by TA: [Dongho Kang](https://donghok.me/)
 
 ![figure: overview](imgs/overview.png)
 
@@ -18,19 +16,9 @@ Our ultimate goal is tracking all of the target trajectories at the same time. W
 
 *Figure 2: Don't freak out!, this is a skeletal visualization of our Dogbot. Assuming the base is at the target position, we want to find **desired joint angles** for each leg that allow the foot (i.e. the end effector of individual leg) to reach the target position. Note. You can render skeletal view by Main Menu > Draw options > Draw Skeleton.*
 
-## Hand-in
+## Demos
 
-Once you complete this assignment you should hand in
-- a short video demonstrating your baseline (Ex.1 ~ Ex.3) implementation. (**filename: demo1.mp4**)
-- a short video demonstrating Ex.5 implementation. (**filename: demo2.mp4**)
-- unit tests all passed (automatically checked by GitHub.)
-- code pushed to your github repository. 
-    
-The grading scheme is as follows
-- baseline (80 %): based on your code and the demo video. Each exercise is counted as 20%.
-- advanced (20 %): based on unit test, code and demo videos. Each exercise is counted as 10%.
-
-Please leave your questions on GitHub, so your colleagues also can join our discussions. 
+## How to play
 
 ## Exercises
 
