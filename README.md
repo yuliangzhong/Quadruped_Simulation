@@ -18,6 +18,8 @@ Our ultimate goal is tracking all of the target trajectories at the same time. W
 
 ## Demos
 
+**check in "/demos" for more detals.**
+
 #### walk on even terrain
 ![demo1](https://user-images.githubusercontent.com/39910677/116314907-054dce80-a7b0-11eb-9780-f959173a1221.gif)
 
